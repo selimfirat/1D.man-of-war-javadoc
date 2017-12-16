@@ -1,0 +1,11 @@
+com.manofwar.logic
+com.manofwar.logic.block
+com.manofwar.logic.bullet
+com.manofwar.logic.character
+com.manofwar.logic.door
+com.manofwar.logic.entities
+com.manofwar.logic.item
+com.manofwar.logic.mob
+com.manofwar.logic.squeezer
+com.manofwar.presentation
+com.manofwar.utilities
